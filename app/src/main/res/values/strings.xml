@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KakaoImgSearchSample</string>
+
+    <string name="native_app_key">c50c9ea58d2b1921620326a8e22886b1</string>
+    <string name="rest_api_key">ea0ef249b1866521d156cd5191979ab9</string>
+    <string name="javascript_key">d3d426a62ad02882bc0bb8c07d6aa6d5</string>
+    <string name="admin_key">a825b1caf2150072b782ebaa09e6659e</string>
 </resources>
